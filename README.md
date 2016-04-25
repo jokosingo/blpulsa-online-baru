@@ -3,8 +3,8 @@ Bl Pulsa adalah toko online yang bergerak pada jual isi ulang pulsa
 
 #note :
 
-daftar anggota?lead?
-deskripsi singkat?
-Simple Flowchart
-Activity Diagram
-Simple Class Diagram
+1.daftar anggota?lead?
+2.deskripsi singkat?
+3.Simple Flowchart
+4.Activity Diagram
+5.Simple Class Diagram
